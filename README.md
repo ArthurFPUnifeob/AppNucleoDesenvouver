@@ -1,3 +1,7 @@
+#  DESENVOLVIDO POR:
+Arthur Fabris Peluque - RA 25001604
+
+
 # Núcleo Desenvolver
 
 <div align="center">
